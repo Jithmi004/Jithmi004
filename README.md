@@ -1,9 +1,9 @@
 ### Hi there I'm Jithmi Ranasinghe👋
 ### About me
-🏫 I'm currently studying at: Department of Computer Science and Engineering, University of Moratuwa  
+🏫I'm a third year undergraduate at Department of Computer Science and Engineering, University of Moratuwa  
 📫 You can reach me via : jithmi.nawoda01@gmail.com  
 <br />
-Technical Skills 
+Languages that I'm familiar with
 <br />
 <br />
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
