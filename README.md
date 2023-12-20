@@ -1,7 +1,7 @@
 ### Hi there I'm Jithmi Ranasinghe👋
 
 ### About me
-🏫I'm a third year undergraduate at Department of Computer Science and Engineering, University of Moratuwa  
+🏫I'm a final year undergraduate at the Department of Computer Science and Engineering, University of Moratuwa  
 📫 You can reach me via :  
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/jithmi-ranasinghe004/)  
